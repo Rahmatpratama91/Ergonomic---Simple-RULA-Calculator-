@@ -1,5 +1,3 @@
-"# Ergonomic---Simple-RULA-Calculator-" 
-
 ## 🧠 Project Overview
 - RULA stands for Rapid Upper Limb Assessment. It is an ergonomic assessment tool developed by Dr. Lynn McAtamney and Prof. E. Nigel Corlett in 1993. RULA is used to evaluate the risk of musculoskeletal disorders (MSDs) associated with postures, force, and repetition of tasks involving the neck, trunk, and upper limbs (arms, wrists, shoulders).
 - RULA is a survey method used to assess biomechanical and postural load requirements of job tasks on the upper body. It helps identify tasks that may contribute to upper limb disorders, especially in sedentary or repetitive jobs.
@@ -8,8 +6,6 @@
 - Ergonomic-Simple-RULA-Calculator-" 
 
 ## 📝 Problem:
-<img width="657" height="526" alt="image" src="https://github.com/user-attachments/assets/6bd3a800-f562-4699-9c82-23e66e2d9c61" />
-
 - RULA calculator assists ergonomist/engineer to decide whether their workers in the acceptable safety level or not.
 - This project using Python and it library (tkinter) to create the Graphical User Interface (GUI).
 - An office worker spends hours with an awkward neck posture and elevated shoulders while typing. A RULA analysis could reveal a high risk score (e.g., 6 or 7), prompting ergonomic interventions like adjusting the chair height or monitor position.
