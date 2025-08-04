@@ -21,3 +21,7 @@
 <img width="282" height="256" alt="1" src="https://github.com/user-attachments/assets/525ca3d1-2c10-4029-9ee0-f0df6234f457" />
 <img width="280" height="261" alt="2" src="https://github.com/user-attachments/assets/19276f00-6768-4bd5-a82c-ed68c07cd229" />
 
+---
+## 🚀 Run the script:
+
+python SimpleRULACalculator.py
