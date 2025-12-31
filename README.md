@@ -3,7 +3,7 @@
 - RULA is a survey method used to assess biomechanical and postural load requirements of job tasks on the upper body. It helps identify tasks that may contribute to upper limb disorders, especially in sedentary or repetitive jobs.
 
 ## 🔧 Project Title:
-- Ergonomic-Simple-RULA-Calculator-" 
+- Ergonomic-Simple-RULA-Calculator
 
 ## 📝 Problem:
 - RULA calculator assists ergonomist/engineer to decide whether their workers in the acceptable safety level or not.
